@@ -37,12 +37,12 @@ Memory limit: 1 GB.<br>
 ## Test Set 1 (Visible Verdict)
 
 2≤**N**≤3.<br>
-1≤**X<sub>i</sub>**≤100, for all `i`.
+1≤**X**<sub>**i**</sub>≤100, for all `i`.
 
 ## Test Set 2 (Visible Verdict)
 
 2≤**N**≤100.<br>
-1≤**X<sub>i</sub>**≤10<sup>9</sup>, for all `i`.
+1≤**X**<sub>**i**</sub>≤10<sup>9</sup>, for all `i`.
 
 ## Sample
 
