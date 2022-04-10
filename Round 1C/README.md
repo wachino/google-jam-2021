@@ -8,5 +8,5 @@
 
 ## Contest results
 
-- [Link to my submissions](https://codingcompetitions.withgoogle.com/codejam/submissions/00000000004362d7/d2FjaGlubw)
-- Ranking position: TODO
+- [Link to my submissions](https://codingcompetitions.withgoogle.com/codejam/submissions/00000000004362d7/00000000004fa976)
+- Ranking position: 4830
