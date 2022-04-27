@@ -3,6 +3,7 @@
 ## Solution code
 
 See [solution source code c++](/Round%202/Hidden%20Pancakes/solution.cpp)
+
 See [solution source code js](/Round%202/Hidden%20Pancakes/solution.js)
 
 ## Analysis
